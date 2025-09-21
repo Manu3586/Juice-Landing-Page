@@ -1,12 +1,13 @@
 # 🍹 SunnYBuddY – Fresh Juices Landing Page
 ## 📸 Preview
 
+<img width="1870" height="823" alt="Screenshot 2025-09-21 232726" src="https://github.com/user-attachments/assets/cae7079a-f6df-4302-914c-ad7eea2ae099" />
 
 A modern, responsive landing page for **SunnYBuddY** – a premium fresh juice brand.  
 The page is designed to showcase products, highlight brand features, and allow users to connect easily.
 
 ## 🚀 Live Demo
-👉 [View the Live Site]()
+👉 [View the Live Site](https://manu3586.github.io/Juice-Landing-Page/)
 
 
 ## ✨ Features
@@ -28,7 +29,7 @@ The page is designed to showcase products, highlight brand features, and allow u
 ## 🚀 How to Run Locally  
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/<your-username>/<your-repo-name>.git
-   cd <your-repo-name>
+   git clone https://github.com/<Manu3586>/Juice-Landing-Page>.git
+   cd <Juice-Landing-Page>
 
 
