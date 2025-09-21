@@ -29,7 +29,7 @@ The page is designed to showcase products, highlight brand features, and allow u
 ## 🚀 How to Run Locally  
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/<Manu3586>/Juice-Landing-Page>.git
+   git clone https://github.com/manu3586/Juice-Landing-Page.git
    cd <Juice-Landing-Page>
 
 
