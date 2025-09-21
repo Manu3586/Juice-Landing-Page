@@ -1,6 +1,6 @@
 # 🍹 SunnYBuddY – Fresh Juices Landing Page
 ## 📸 Preview
-_Add screenshots of your site here after deployment._
+
 
 A modern, responsive landing page for **SunnYBuddY** – a premium fresh juice brand.  
 The page is designed to showcase products, highlight brand features, and allow users to connect easily.
@@ -23,10 +23,12 @@ The page is designed to showcase products, highlight brand features, and allow u
 - **CSS3** – Styling & Animations  
 - **JavaScript (Vanilla JS)** – Interactivity & Modal handling  
 
-## 📂 Project Structure
-├── index.html # Main landing page
-├── style.css # Styling & responsive design
-├── script.js # JavaScript functionality
-├── /images # (Place all juice & background images here)
+---
+
+## 🚀 How to Run Locally  
+1. Clone the repository:  
+   ```bash
+   git clone https://github.com/<your-username>/<your-repo-name>.git
+   cd <your-repo-name>
 
 
